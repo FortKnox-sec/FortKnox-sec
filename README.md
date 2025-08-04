@@ -8,6 +8,14 @@
 
 ---
 
+## 📚 Resources & References
+
+* [FortKnox Security Blog](https://fortknox-security.xyz/blog) — deep dives and case studies.
+* [GitHub Repository](https://github.com/fortknox-sec) — open-source security tools and templates.
+* [Audit Report Samples](https://github.com/FortKnox-sec/Audits) — anonymized, real-world examples.
+
+---
+
 ## 🚀 Services Offered
 
 ### 1. Smart Contract Audits
@@ -83,14 +91,6 @@
 * **DeFiX Protocol**: Prevented a critical reentrancy bug, saving \$2M in potential losses.
 * **NFTify**: Secured ERC-721 mint contract; zero exploits after 12 months of operation.
 * **CrossChain Bridge**: Validated multi-signature governance module across BSC, Ethereum, and Polygon.
-
----
-
-## 📚 Resources & References
-
-* [FortKnox Security Blog](https://fortknox-security.xyz/blog) — deep dives and case studies.
-* [GitHub Repository](https://github.com/fortknox-sec) — open-source security tools and templates.
-* [Audit Report Samples](https://github.com/FortKnox-sec/Audits) — anonymized, real-world examples.
 
 ---
 
