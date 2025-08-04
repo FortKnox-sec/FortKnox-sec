@@ -90,7 +90,7 @@
 
 * [FortKnox Security Blog](https://fortknox-security.xyz/blog) — deep dives and case studies.
 * [GitHub Repository](https://github.com/fortknox-sec) — open-source security tools and templates.
-* [Audit Report Samples](https://docs.fortknox-security.xyz/reports) — anonymized, real-world examples.
+* [Audit Report Samples](https://github.com/FortKnox-sec/Audits) — anonymized, real-world examples.
 
 ---
 
