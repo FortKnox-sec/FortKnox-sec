@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="fortknoxlogo.png" alt="FortKnox Security Logo" width="300"/>
+</p>
+
 # 🏰 FortKnox Security
 
 **FortKnox Security** is your trusted partner for **Solidity audits**, **Web3 security**, and **blockchain risk mitigation**. With years of experience in analyzing smart contracts and decentralized applications, our team helps projects deploy safer, more secure code to the blockchain.
@@ -84,18 +88,18 @@
 
 ## 📚 Resources & References
 
-* [FortKnox Security Blog](https://fortknox-security.com/blog) — deep dives and case studies.
-* [GitHub Repository](https://github.com/fortknox-security) — open-source security tools and templates.
-* [Audit Report Samples](https://docs.fortknox-security.com/reports) — anonymized, real-world examples.
+* [FortKnox Security Blog](https://fortknox-security.xyz/blog) — deep dives and case studies.
+* [GitHub Repository](https://github.com/fortknox-sec) — open-source security tools and templates.
+* [Audit Report Samples](https://docs.fortknox-security.xyz/reports) — anonymized, real-world examples.
 
 ---
 
 ## 💬 Get in Touch
 
-**Email:** [security@fortknox-security.com](mailto:security@fortknox-security.com)
-**Website:** [https://fortknox-security.com](https://fortknox-security.com)
-**Twitter:** [@FortKnoxSec](https://twitter.com/FortKnoxSec)
-**LinkedIn:** [FortKnox Security](https://linkedin.com/company/fortknox-security)
+**Email:** [support@fortknox-security.xyz](mailto:support@fortknox-security.xyz)
+**Website:** [https://fortknox-security.xyz](https://fortknox-security.xyz)
+**GitHub:** [fortknox-sec](https://github.com/fortknox-sec)
+**Telegram:** [t.me/FortKnox\_sec](https://t.me/FortKnox_sec)
 
 > **“Security is not a product, but a process.”** — Bruce Schneier
 
